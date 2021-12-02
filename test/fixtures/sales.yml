@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  saller_name: MyString
+  amount: 
+  price: 
+  total: 1.5
+
+two:
+  saller_name: MyString
+  amount: 
+  price: 
+  total: 1.5
